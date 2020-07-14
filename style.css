@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Indie+Flower&display=swap');
+
+body{
+    background-image: url('https://wallpapercave.com/wp/wp45992.jpg');
+}
+
+.header{
+    background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRS3DQJILKiMJo3BWOxOn_OH52OitG8fkmQ6Q&usqp=CAU');
+    background-size: cover;
+    color: black;
+    box-shadow: rgb(26,115,171) 0px 0px 10px 10px;
+    height: 8vh;
+    margin: 0px;
+    font-family: 'Indie Flower', cursive;
+    font-weight: bolder;
+}
+canvas{
+    box-shadow: rgb(26,115,171) 0px 0px 10px 10px;
+    margin-left: 10vw;
+    margin-top: 5vh;
+    height: 80vh;
+    width: 80vw;
+}
